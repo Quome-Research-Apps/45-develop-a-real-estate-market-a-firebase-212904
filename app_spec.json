@@ -1,0 +1,1 @@
+{"name": "45-develop-a-real-estate-market-a-firebase-212904", "spec": {"port": 8000, "containers": [{"image": "", "name": "45-develop-a-real-estate-market-a-firebase-212904", "port": 8000, "registry_secret": "benchmarks-docker-credentials"}]}}
